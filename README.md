@@ -1,2 +1,2 @@
-# smartbrain007
+# smartbrain
 A basic react app including node and sql 
